@@ -1,0 +1,213 @@
+# basic-ProgrammingConcepts
+
+- Computer system -- a combination of all the components required to process and store data using a computer
+- Hardware -- the collection of physical devices that comprise a computer system
+- Software -- the programs that tell the computer what to do
+- Programs -- sets of instructions for a computer
+- Programming -- act of developing and writing programs
+- Application software -- all the programs you apply to a task
+- App -- a piece of application software; the term is frequently used for applications on mobile devices
+- System software -- comprises the programs that you use to manage your computer
+- Input -- the entry of data items into computer memory using hardware devices such as keyboards and mice
+- Data items -- all the text, numbers, and other information processed by a computer
+- Processing data items -- it may involve organizing them, checking them for accuracy, or performing mathematical operations on them
+- Central processing unit (CPU) -- the computer hardware component that processes data
+- Output -- the operation of retrieving information from memory and sending it to a device, such as a monitor or printer so people can view, interpret, and work with the results
+- Information -- processed data
+- Storage devices -- hardware equipment, such as disks, that hold information for later retrieval
+- Programming languages -- such as Visual Basic, C#, C++ or Java, are used to write programs
+- Cloud -- refers to remote computers accessed through the internet
+- Program code -- the set of instructions a programmer writes in a programming language
+- Coding the program -- the act of writing programming language instructions
+- Syntax -- grammar rules of a language
+- Syntax error -- an error in language or grammar
+- Computer memory -- the temporary, internal storage within a computer
+- Random access memory (RAM) -- temporary, internal computer storage
+- Volatile -- storage whose contents are lost when power is lost
+- Nonvolatile -- storage whose contents are retained when power is lost
+- Machine language -- computer's on/off circuitry language
+- Source code -- the statements a programmer writes in a programming language
+- Object code -- translated machine language
+- Compiler / interpreter -- translates a high-level language into machine language and indicates if you have used a programming language incorrectly
+- Binary language -- represented using a series of 0's and 1's
+- Run / execute -- to run or execute a program is to carry out its instructions
+- Scripting languages (or script languages) -- (such as Python, Lua, Perl and PHP are examples) are used to write programs that are typed directly from a keyboard. They are stored as text rather than binary executable files
+- Logical error -- it occurs when incorrect instructions are performed, or when instructions are performed in the wrong order
+- Logic -- the complete sequence of instructions that lead to a problem's solution
+- Variable -- a named memory location whose value can vary
+- Program development cycle -- consists of the steps that occur during a program's lifetime
+- Users (or end users) -- people who employ and benefit from computer programs
+- Documentation -- all the supporting paperwork for a program
+- Algorithm -- the sequence of steps necessary to solve any problem
+- IPO chart -- program development tool that delineates input, processing, and output tasks
+- TOE chart -- program development tool that lists tasks, objects, and events
+- Desk-checking -- process of walking through a program solution on paper
+- High-level programming language -- supports English-like syntax
+- Low-level programming language -- made up of 1's and 0's and does not use easily interpreted variable names
+- Debugging -- process of finding and correcting program errors
+- Conversion -- the entire set of actions an organization must take to switch over to using a new program or set of programs
+- Maintenance -- all the improvements and corrections made to a program after it is in production
+- Pseudocode -- English-like representation of the logical steps it takes to solve a problem (also known as false code)
+- Flowchart -- pictorial representation of the logical steps it takes to solve a problem
+- Input symbol -- indicates an input operation and is represented by a parallelogram in flowcharts
+- Processing symbol -- indicates a processing operation and is represented by a rectangle in flowcharts
+- Output symbol -- indicates and output operation and is represented by a parallelogram in flowcharts
+- Input/output symbol (I/O symbol) -- represented by a parallelogram in flowcharts
+- Flowlines -- or arrows, connect the steps in a flowchart
+- Terminal symbol -- indicates the beginning or end of a flowchart segment and is represented by a lozenge
+- Loop -- repetition of a series of steps
+- Infinite loop -- occurs when repeating logic cannot end
+- Making a decision -- the act of testing a value
+- Decision symbol -- shaped like a diamond and used to represent decisions in flowcharts
+- Dummy value -- a preselected value that stops the execution of a program
+- Sentinel value -- a preselected value that stops the execution of a program
+- Eof -- End of file
+- Text editor -- program that you use to create simple text files; it is similar to a word processor, but without as many features
+- Integrated development environment (IDE) -- a software package that provides and editor, compiler, and other programming tools
+- Microsoft Visual Studio IDE -- a software package that contains useful tools for creating programs in Visual Basic, C++, and C#
+- Command line -- location on your computer screen at which you type text entries to communicate with the computer's operating system
+- Graphical user interface (GUI) -- allows users to interact with a program in a graphical environment
+- Procedural programming -- programming model that focuses on the procedures that programmers create
+- Object-oriented programming -- programming model that focuses on objects, or "things", and describes their features and behaviors
+- Numeric -- data that consists of numbers
+- String -- data that is nonnumeric
+- Integer -- a whole number
+- Floating-point -- a number with decimal places
+- Real numbers -- floating-point numbers
+- Numeric constant (or literal numeric constant) -- a specific numeric value
+- String constant (or literal string constant) -- a specific group of characters enclosed within quotation marks
+- Alphanumeric values -- contain alphabetic characters, numbers and punctuation
+- Unnamed constant -- a literal numeric or string value
+- Declaration -- a statement that provides data type and an identifier for a variable
+- Identifier -- a program component's name
+- Data type -- a classification that describes what values can be assigned, how the item is stored, and what types of operations can be performed with the item
+- Initializing a variable -- the act of assigning its first value, often at the same time the variable is created
+- Garbage -- the unknown value stored in an unassigned variable
+- Keywords -- comprise the limited word set that is reserved in a language
+- Camel casing -- a variable-naming convention in which the initial letter is lowercase, multiple-word variable names are run together, and each new word within the variable name begins with an uppercase letter
+- Pascal casing -- a variable-naming convention in which the initial letter is uppercase, multiple-word variable names are run together, and each new word within the variable name begins with an uppercase letter
+- Hungarian notation -- a variable-naming convention in which a variable's data type or other information is stored as part of its name
+- Snake casing -- a convention in which parts of a name are separated by underscores
+- Mixed case with underscores -- A naming convention similar to snake casing, but new words start with an uppercase letter
+- Kebob case -- sometimes used as the name for the style that uses dashes to separate parts of a name
+- Assignment statement -- assigns a value from the right of an assignment operator to the variable or constant on the left of the assignment operatoterm-101r
+- Assignment operator -- is the equal sign; it is used to assign a value to the variable or constant on its left
+- Binary operator -- an operator that requires two operands - one on each side
+- Operand -- a value used by an operator
+- Right-associativity & right-to-left associativity -- operators that evaluate the expression to the right first
+- Ivalue -- the memory address identifier to the left of an assignment operator
+- Numeric variable -- one that can hold digits, have mathematical operations performed on it, and usually can hold a decimal point and a sign indicating positive or negative
+- String variable -- holds text that includes letters, digits, and special characters such as punctuation marks
+- Type-safety -- the feature of programming languages that prevents assigning values of an incorrect data type
+- Named constant -- similar to a variable, except that its value cannot change after the first assignment
+- Magic number -- an unnamed constant whose purpose is not immediately apparent
+- Overhead -- the extra resources a task requires
+- Rules of precedence -- dictates the order in which operations in the same statement are carried out
+- Order of operations -- describes the rules or precedence
+- Left-to-right associativity -- describes operators that evaluate the expression to the left first
+- Remainder operator -- An arithmetic operator used in some programming languages; when used with two integer operands, it results in the remainder after division
+- Modules -- small program units that you can use together to make a program. Programmers also refer to modules as subroutines, procedures, functions, or methods
+- Call a module -- to use the module's name to invoke it, causing it to execute
+- Modularization -- the process of breaking down a program into modules
+- Functional decomposition -- the act of reducing a large program into more manageable modules
+- Abstraction -- the process of paying attention to important properties while ignoring nonessential details
+- Reusability -- the feature of modular programs that allows individual modules to be used in a variety of applications
+- Reliability -- the feature of modular programs that assures you a module has been tested and proven to function correctly
+- Main program -- runs from start to stop and calls other modules
+- Mainline logic -- the logic that appears in a program's main module; it calls other modules
+- Module header -- the module identifier and possibly other necessary identifying information
+- Module body -- contains all the statements in the module
+- Module return statement -- marks the end of the module and identifies the point at which control returns to the program or module that called the module
+- Encapsulation -- the act of containing a task's instructions in a module
+- Stack -- a memory location in which the computer keeps track of the correct memory address to which it should return after executing a module
+- Functional cohesion -- a module is a measure of the degree to which all the module statements contribute to the same task
+- Visible -- describes the state of data items when a module can recognize them
+- In scope -- describes data that is visible
+- Local -- describes variables that are declared within the module that uses them
+- Portable -- a portable module is one that can more easily be reused in multiple programs
+- Global -- describes variables that are known to an entire program
+- Housekeeping tasks -- include steps you must perform at the beginning of a program to get ready for the rest of the program
+- Detail loop tasks -- of a program include the steps that are repeated for each set of input data
+- End-of-job tasks -- the steps you take at the end of the program to finish the application
+- Hierarchy chart -- a diagram that illustrates modules' relationships to each other
+- Program comments -- written explanations that are not part of the program logic but that serve as documentation for those reading the program
+- Internal documentation -- documentation within a coded program
+- External documentation -- documentation that is outside a coded program
+- Annotation symbol -- contains information that expands on what appears in another flowchart symbol; it is most often represented by a three-sided box that is connected to the step it references by a dashed line
+- Self-documenting programs -- those that contain meaningful data and module names that describe the programs' purpose
+- Data dictionary -- a list of every variable name used in a program, along with its type, size, and description
+- Temporary variable (or work variable) -- a working variable that you use to hold intermediate results during a program's execution
+- Prompt -- a message that is displayed on a monitor to ask the user for a response and perhaps explain how that response should be formatted
+- Echoing input -- the act of repeating input back to a user either in a subsequent prompt or in input
+- Program level -- the level in which global variables are declared
+- Spaghetti code -- snarled, unstructured program logic
+- Unstructured programs -- programs that do NOT follow the rules of structured logic
+- Structured programs -- programs that follow the rules of structured logic
+- Structure -- a basic unit of programming logic; each structure is a sequence, selection or loop
+- Sequence structure -- contains a series of steps executed in order. A sequence can contain any number of tasks, but there is no option to branch off and skip any of the tasks
+- Selection structure / decision structure -- contains a question, and depending on the answer, takes one of two courses of action before continuing with the next task
+- End-structure statement -- designates the end of a pseudocode statement
+- If-then-else -- another name for a dual-alternative selection structure
+- Dual-alternative ifs / dual-alternative selections -- define one action to be taken when the tested condition is true and another action to be taken when it is false
+- Single-alternative ifs / single-alternative selections -- take action on just one branch of the decision
+- Null case (or null branch) -- the branch of a decision in which no action is taken
+- Loop structure -- continues to repeat actions while a test condition remains true
+- Loop body -- the set of actions that occur within a loop
+- While loop -- a structure that continues to repeat a process while some condition remains true
+- Repetition / iteration -- alternate names for a loop structure
+- Stacking structures -- the act of attaching structures end to end
+- Nesting structures -- the act of placing a structure within another structure
+- Block -- is a group of statements that executes as a single unit
+- Priming input / priming read -- the statement that reads the first input data record prior to starting a structured loop
+- Goto-less programming -- a name to describe structured programming, because structured programmers do not use a "go to" statement
+- Boolean expression -- is one that represents only one of two states, usually expressed as true or false, is anything that represents one of two values, such as true/false or zero/nonzero
+- If-then -- a decision structure contains a tested boolean expression and an action that is taken only when the expression is true
+- If-then clause -- of a decision holds the statements that execute when the tested boolean expression is true
+- Else clause -- holds the statements or actions that execute only when the tested boolean expression in the decision is false
+- Relational comparison operators -- the symbols that express boolean comparisons for ex. =, >, <, <=, >=
+- Trivial expression -- one that always evaluates to the same value
+- Compound condition -- is constructed when you need to ask multiple questions before determining an outcome
+- AND decision -- contains two or more decisions, all conditions must be true for an action to take place
+- Nested decision (or nested if) -- a decision within either the if-then or else clause of another decision
+- Cascading if statement -- a series of nested if statements
+- Conditional AND operator (or AND operator) -- a symbol that you use to combine conditions when they all must be true for an action to occur
+- Truth tables -- diagrams used in mathematics and logic to help describe the truth of an entire expression based on the truth of its parts
+- Short-circuit evaluation -- a logical feature in which expressions in each part of a larger expression are evaluated only as far as necessary to determine the final outcome
+- OR decision -- contains two or more decisions; if at least one condition is met, the resulting action takes place
+- Conditional OR operator (or OR operator) -- a symbol that you use to combine conditions when at least one of them must be true for an action to occur
+- Logical NOT operator -- a symbol that reverses the meaning of a boolean expression
+- Unary operator -- one that uses only one operand
+- Range check -- determines where a variable falls arithmetically when compared to a series of values that mark limiting ends
+- Dead / unreachable path -- a logical path that can never be traveled
+- Loop control variable -- a variable that determines whether a loop will continue
+- Definite loop -- one for which the number of repetitions is a predetermined value
+- Counted loop (or counter-controlled loop) -- a loop whose repetitions are managed by a counter
+- Increment a variable -- to increment a variable is to add a constant value to it, frequently 1
+- Decrement a variable -- to decrement a variable is to decrease it by a constant value, frequently 1.
+- Counter -- any numeric variable you use to count the number of times an event has occurred
+- Indefinite loop -- one for which you can't predetermine the number of executions
+- Nested loops -- occur when a loop structure exists within another loop structure
+- Outer loop -- contains another loop when loops are nested
+- Inner loop -- is contained within another loop when loops are nested
+- For statement (or for loop) -- can be used to code definite loops and has a loop control variable that it automatically initializes, tests and alters
+- Step value -- a number by which a loop control variable is altered on each pass through a loop
+- Pretest loop -- tests its controlling condition before each iteration, meaning that the loop body might never execute
+- Posttest loop -- tests its controlling condition after each iteration, meaning that the loop body executes at least one time
+- Accumulator -- a variable that you use to gather or accumulate values, such as a running total
+- Summary report -- lists only totals, without individual detail records
+- Defensive programming -- a technique with which you try to prepare for all possible errors before they occur
+- Validate data -- to ensure that data items are meaningful and useful - for example by ensuring that values are the correct data type, fall within an acceptable range or are reasonable
+- GIGO -- ("garbage in, garbage out") means that if your input is incorrect, your output is worthless
+- Forcing a data item -- means you override incorrect data by setting it to a specific, default value
+- Array -- a series or list of values in computer memory, all of which have the same name but are differentiated with special numbers called subscripts
+- Element -- a single data item in an array
+- Size of the array -- the number of elements an array can hold
+- Subscript (or index) -- a number that indicates the position of a particular item within an array
+- Populating an array -- the act of assigning values to the array elements
+- Linear search -- a search through a list from one end to the other
+- Flag -- a variable that indicates whether some event has occurred
+- Parallel arrays -- each element in one array is associated with the element in the same relative position in the other array(s)
+- Indirect relationship -- describes the relationship between parallel arrays in which an element in the first array does not directly access its corresponding value in the second array
+- Binary search -- is one that starts in the middle of a sorted list, then determines whether it should continue higher or lower to find a target value
+- In bounds -- describes an array subscript that is within the range of acceptable subscripts for its array
+- Out of bounds -- describes an array subscript that is not within the range of acceptable subscripts for its array
